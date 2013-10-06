@@ -3,6 +3,6 @@ public class readme
 {
   public static void main(String[] args)
     {
-      JOptionPane.showMassageDialog(null,"Hello World");
+      JOptionPane.showMassageDialog(null,"Good-bye world");
     }
 }
